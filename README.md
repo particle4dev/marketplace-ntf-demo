@@ -55,7 +55,7 @@ MARKETPLACE ADDRESS: 0xf8e81D47203A594245E36C48e151709F0C19fBe8
 Let's say USER B wants to buy USER C's NFT ID 100 for 10000 TOKEN and MARKETPLACE will take 20% of the transaction fee. 
 Here are the steps you do it:
 
-- STEP 1: Allow MARKETPLACE ADDRESS to transfer any token owned by USER C:
+- STEP 1: Allow MARKETPLACE ADDRESS to transfer any NFT owned by USER C:
 
 (NOTE: call function from address C)
 
